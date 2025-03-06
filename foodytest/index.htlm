@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foodfly - Healthy Meal Delivery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Foodfly</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Trang Chủ</a></li>
+                <li><a href="#meals">Bữa Ăn</a></li>
+                <li><a href="#testimonials">Đánh Giá</a></li>
+                <li><a href="#articles">Bài Viết</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Chào Mừng Đến Với Foodfly</h2>
+        <p>Khám phá các bữa ăn lành mạnh mà không cần phải nấu ăn!</p>
+    </section>
+
+    <section id="meals">
+        <h2>Bữa Ăn Phổ Biến</h2>
+        <div class="meal-category">
+            <h3>Burger</h3>
+            <p>Thưởng thức burger ngon miệng và lành mạnh.</p>
+        </div>
+        <div class="meal-category">
+            <h3>Pizza Nóng</h3>
+            <p>Pizza tươi ngon với nguyên liệu chất lượng.</p>
+        </div>
+        <div class="meal-category">
+            <h3>Món Trung Quốc</h3>
+            <p>Khám phá các món ăn Trung Quốc truyền thống.</p>
+        </div>
+    </section>
+
+    <section id="testimonials">
+        <h2>Đánh Giá Khách Hàng</h2>
+        <blockquote>
+            <p>"Dịch vụ giao hàng tuyệt vời và thực phẩm rất ngon!"</p>
+            <cite>- Khách Hàng Hạnh Phúc</cite>
+        </blockquote>
+    </section>
+
+    <section id="articles">
+        <h2>Bài Viết Gần Đây</h2>
+        <article>
+            <h3>Công Thức Nấu Ăn Lành Mạnh Dễ Dàng</h3>
+            <p>Khám phá các công thức nấu ăn đơn giản cho người bận rộn.</p>
+        </article>
+    </section>
+
+    <footer>
+        <p>Theo dõi chúng tôi trên Instagram @Foodfly</p>
+    </footer>
+</body>
+</html>
